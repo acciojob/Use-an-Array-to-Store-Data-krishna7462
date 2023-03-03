@@ -1,2 +1,2 @@
 
-let yourArray =["onestring",1,true,false,2,"idk"];
+let yourArray =["one string",1,true,false,2,null];
